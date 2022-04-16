@@ -11,9 +11,9 @@ This is a discord bot supplying pictures of pokemon on request. <br><br>
 
 ### Example Usage
 
-<img src="assets/help.png">
+<img src="/assets/help.png">
 <br><br>
-<img src="assets/pikachu.png">
+<img src="/assets/pikachu.png">
 
 ---
 
@@ -58,4 +58,4 @@ The python bot is really simple using just `requests` to call the PokeAPI and th
 This was very fun because I learnt how to host ascript on my own!
 
 <img src="https://1.bp.blogspot.com/-EHBItm2ov28/X7zMLiDUlnI/AAAAAAABcZg/Hn1EagLhVecSENp47dA46nL8wXAP4iChQCNcBGAsYHQ/s400/sweets_tarte_strawberry.png" width=100px>
-<br>Here's a strawberry tart!
+Here's a strawberry tart!
