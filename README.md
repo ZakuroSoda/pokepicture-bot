@@ -11,9 +11,9 @@ This is a discord bot supplying pictures of pokemon on request. <br><br>
 
 ### Example Usage
 
-<img src="/assets/help.png">
+<img src="help.png">
 <br><br>
-<img src="/assets/pikachu.png">
+<img src="pikachu.png">
 
 ---
 
